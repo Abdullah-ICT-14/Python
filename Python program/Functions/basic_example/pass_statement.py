@@ -1,0 +1,3 @@
+def myfun():
+    pass
+myfun()
